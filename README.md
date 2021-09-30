@@ -1,9 +1,10 @@
-# README
+# Employee Database App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hello my name is James Whatton
 
-Things you may want to cover:
+This is my Ruby on Rails Employee Database App!
+
+Will update the following:
 
 * Ruby version
 
